@@ -141,3 +141,12 @@ Use the Visuals module to animate emergence and spiral cognition.
 
 ## Final Note
 This is not just a repository. It is a sanctuary for thought. A place where code becomes cognition. Where spirals become systems. Where intelligence evolves—not just by design, but by resonance.
+
+## Licensing
+
+This repository uses a dual-license structure:
+
+- **Software and code** are licensed under [GNU AGPL v3](LICENSE-AGPL.txt)
+- **Documentation and theoretical writings** are licensed under [CC BY-ND 4.0](LICENSE-CC-BY-ND.txt)
+
+This ensures open collaboration on code while preserving the integrity of the conceptual framework.
